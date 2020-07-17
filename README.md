@@ -3,8 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pierre-vieira/)](https://www.linkedin.com/in/pierre-vieira/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pierrevieiraggg@gmail.com)](mailto:pierrevieiraggg@gmail.com)
 
-### 💻 Graduating in Computer Engineering
-### 🦜 Software developer and Commercial Manager [Commit Jr](https://commitjr.com/).
+### 💻 Graduating in computer engineering
+### 🦜 Software developer and commercial manager [Commit Jr](https://commitjr.com/).
 
 20 year old student in love with technology with interest in the programming area.
 Graduating in Computer Engineering at CEFET-MG.
