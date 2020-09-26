@@ -7,7 +7,7 @@
 ### 🦜 Software developer and commercial manager at [Commit Jr](https://commitjr.com/).
 ### 🎸 Mobile Development Intern at [Studio Sol](https://www.studiosol.com.br/).
 
-20 year old student in love with technology with interest in the programming area.
+20 years old student in love with technology with interest in the programming area.
 Graduating in Computer Engineering at CEFET-MG.
 Has experience in Computer Engineering, working on the following topics:
 - Software development;
