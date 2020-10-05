@@ -8,6 +8,8 @@
 * 🎸 Mobile Development Intern at [Studio Sol](https://www.studiosol.com.br/).
 
 20 years old student in love with technology with interest in the programming area.
-
-![PierreVieira github stats](https://github-readme-stats.vercel.app/api?username=PierreVieira&show_icons=true&theme=compact&hide=prs,issues)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PierreVieira)
+<hr>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=PierreVieira&show_icons=true&theme=compact&hide=prs,issues" height="49%" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PierreVieira" height="49%" width="49%">
+</p>
