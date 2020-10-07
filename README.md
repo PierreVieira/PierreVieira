@@ -6,7 +6,6 @@
 20 years old student in love with technology with interest in the programming area.
 
 * 💻 Graduating in computer engineering at **[CEFET-MG](https://www.cefetmg.br/)**.
-* 🦜 Software developer and commercial manager at **[Commit Jr](https://commitjr.com/)**.
 * 🎸 Mobile Development Intern at **[Studio Sol](https://www.studiosol.com.br/)**.
 
 <hr>
