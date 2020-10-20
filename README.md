@@ -15,8 +15,7 @@
 * 🧮 Discrete math monitor at [CEFET-MG](https://www.cefetmg.br/);
 * 🤖 Robotics instructor with Arduino at [Enxurrada de Bits](http://www.enxurradadebits.cefetmg.br/).
 
-<hr>
-<h2>Language coding time (week)</h2>
+## Language coding time (week)
 <p>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PierreVieira" height="49%" width="49%">
 </p>
