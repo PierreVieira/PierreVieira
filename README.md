@@ -1,7 +1,7 @@
 # Pierre Vieira <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pierre-vieira/)](https://www.linkedin.com/in/pierre-vieira/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pierrevieiraggg@gmail.com)](mailto:pierrevieiraggg@gmail.com)
+[![Gmail Badge](http://img.shields.io/badge/-Whatsapp-green?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?1=pt_BR&phone=5531998005262)](https://api.whatsapp.com/send?1=pt_BR&phone=5531998005262)
 
 20 years old student in love with technology with interest in the programming area.
 
