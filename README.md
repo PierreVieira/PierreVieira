@@ -8,7 +8,8 @@
 ## Current works
 * 💻 Graduating in computer engineering at **[CEFET-MG](https://www.cefetmg.br/)**;
 * 🎸 Mobile Development Intern at **[Studio Sol](https://www.studiosol.com.br/)**;
-* 📖 Tutor at **[Profes](https://profes.com.br/inicio)**.
+* 💲  CEO at **[Brothers Coins](https://www.facebook.com/brotherscoinspage/)**;
+* 📖 Programming Teacher at **[Profes](https://profes.com.br/inicio)**.
 
 ## Previous works
 * 🦜 Software developer and commercial manager at [Commit Jr](https://commitjr.com/);
