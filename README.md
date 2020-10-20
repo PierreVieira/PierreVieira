@@ -7,9 +7,9 @@
 
 * 💻 Graduating in computer engineering at **[CEFET-MG](https://www.cefetmg.br/)**.
 * 🎸 Mobile Development Intern at **[Studio Sol](https://www.studiosol.com.br/)**.
+* 📖 Tutor at **[Profes](https://profes.com.br/inicio)**.
 
 <hr>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=PierreVieira&show_icons=true&theme=compact&hide=prs,issues" height="49%" width="49%">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PierreVieira" height="49%" width="49%">
 </p>
