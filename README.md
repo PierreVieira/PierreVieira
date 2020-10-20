@@ -9,7 +9,7 @@
 * 💻 Graduating in computer engineering at **[CEFET-MG](https://www.cefetmg.br/)**;
 * 🎸 Mobile development intern at **[Studio Sol](https://www.studiosol.com.br/)**;
 * 📖 Programming teacher at **[Profes](https://profes.com.br/inicio)**;
-* 💲  CEO at **[Brothers Coins](https://www.facebook.com/brotherscoinspage/)**;
+* 💲  CEO at **[Brothers Coins](https://www.facebook.com/brotherscoinspage/)**.
 
 ## Previous works
 * 🦜 Software developer and commercial manager at [Commit Jr](https://commitjr.com/);
