@@ -8,7 +8,7 @@
 ## Current works
 * 💻 Graduating in computer engineering at **[CEFET-MG](https://www.cefetmg.br/)**;
 * 🎸 Mobile development intern at **[Studio Sol](https://www.studiosol.com.br/)**;
-* 💲  CEO & Founder at **[Brothers Coins](https://www.facebook.com/brotherscoinspage/)**;
+* 💲  CEO & Founder at **[Brothers Coins](https://brotherscoins.com/)**;
 * 📖 Programming teacher at **[Profes](https://profes.com.br/inicio)**.
 
 ## Previous works
