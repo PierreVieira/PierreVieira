@@ -18,5 +18,5 @@
 
 ## Language coding time (week)
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PierreVieira" height="49%" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PierreVieira&theme=dark" height="49%" width="49%">
 </p>
