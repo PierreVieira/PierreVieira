@@ -11,7 +11,7 @@
 * 💲  CEO & Founder at **[Brothers Coins](https://brotherscoins.com/)**;
 
 ## Previous works
-* 📖 Programming teacher at **[Profes](https://profes.com.br/inicio)**.
+* 📖 Programming teacher at [Profes](https://profes.com.br/inicio).
 * 🦜 Software developer and commercial manager at [Commit Jr](https://commitjr.com/);
 * 🤖 Robotics instructor with Arduino at [Enxurrada de Bits](http://www.enxurradadebits.cefetmg.br/);
 * 🧮 Discrete math monitor at [CEFET-MG](https://www.cefetmg.br/).
