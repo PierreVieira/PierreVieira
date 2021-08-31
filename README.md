@@ -8,10 +8,10 @@
 ## Current works
 * 💻 Graduating in computer engineering at **[CEFET-MG](https://www.cefetmg.br/)**;
 * 🎸 Mobile development intern at **[Studio Sol](https://www.studiosol.com.br/)**;
-* 💲  CEO & Founder at **[Brothers Coins](https://brotherscoins.com/)**;
+* 💲  CEO & Founder at **[Brothers Coins](https://brotherscoins.com/)**.
 
 ## Previous works
-* 📖 Programming teacher at [Profes](https://profes.com.br/inicio).
+* 📖 Programming teacher at [Profes](https://profes.com.br/inicio);
 * 🦜 Software developer and commercial manager at [Commit Jr](https://commitjr.com/);
 * 🤖 Robotics instructor with Arduino at [Enxurrada de Bits](http://www.enxurradadebits.cefetmg.br/);
 * 🧮 Discrete math monitor at [CEFET-MG](https://www.cefetmg.br/).
@@ -21,4 +21,3 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PierreVieira&theme=dark" height="49%" width="49%" />&nbsp;&nbsp;
   <img src="https://wakatime.com/share/@PierreVieira/9bebc1cb-b556-4ea6-97c8-8a96d55911ea.svg" height="49%" width="49%"/>
 </p>
-<figure><embed </embed></figure>
