@@ -10,7 +10,7 @@
 * 💲  CEO & Founder at **[Brothers Coins](https://brotherscoins.com/)**.
 
 ## Previous works
-* 🎸 Android developer at **[Studio Sol](https://www.studiosol.com.br/)**;
+* 🎸 Android developer at [Studio Sol](https://www.studiosol.com.br/);
 * 📖 Programming teacher at [Profes](https://profes.com.br/inicio);
 * 🦜 Software developer and commercial manager at [Commit Jr](https://commitjr.com/);
 * 🤖 Robotics instructor with Arduino at [Enxurrada de Bits](http://www.enxurradadebits.cefetmg.br/);
