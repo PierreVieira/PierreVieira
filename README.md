@@ -7,6 +7,7 @@
 
 ## Current works
 * 💻 Graduating in computer engineering at **[CEFET-MG](https://www.cefetmg.br/)**;
+* 🍗 Android Software Engineer at **[iFood](https://www.ifood.com.br/)**
 * 💲  CEO & Founder at **[Brothers Coins](https://brotherscoins.com/)**.
 
 ## Previous works
