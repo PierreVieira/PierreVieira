@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pierre-vieira/)](https://www.linkedin.com/in/pierre-vieira/)
 [![Gmail Badge](http://img.shields.io/badge/-Whatsapp-green?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?1=pt_BR&phone=5531998005262)](https://api.whatsapp.com/send?1=pt_BR&phone=5531998005262)
 
-Twenty two years old student in love with technology with interest in the programming area.
+Twenty two years old programmer in love with android development.
 
 ## Current works
 * 💳 Android Software Engineer at **[Mercado Pago Point](https://www.mercadopago.com.br/point)**.
