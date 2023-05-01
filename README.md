@@ -18,6 +18,7 @@ Twenty two years old programmer in love with android development.
 * 🧮 Discrete math monitor at [CEFET-MG](https://www.cefetmg.br/).
 
 ## Statistics (provided from wakatime)
+Click on each image below to see more details 👇
 <table>
   <thead>
     <tr>
