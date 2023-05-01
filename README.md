@@ -17,11 +17,12 @@ Twenty two years old programmer in love with android development.
 * 🤖 Robotics instructor with Arduino at [Enxurrada de Bits](http://www.enxurradadebits.cefetmg.br/);
 * 🧮 Discrete math monitor at [CEFET-MG](https://www.cefetmg.br/).
 
-## Language coding time (week)
+## Statistics (provided from wakatime)
 <table>
   <thead>
     <tr>
-      <th style="text-align:center;font-weight:bold;">Last 7 days</th>
+      <th style="text-align:center;font-weight:bold;">Last week</th>
+      <th style="text-align:center;font-weight:bold;">Last month</th>
       <th style="text-align:center;font-weight:bold;">Last year</th>
     </tr>
   </thead>
@@ -34,6 +35,11 @@ Twenty two years old programmer in love with android development.
       </td>
       <td>
         <figure>
+          <img src="https://wakatime.com/share/@PierreVieira/eb2f17bd-e3d4-497e-aea7-a8b59a282b45.svg" alt="Last 30 days" width="400">
+        </figure>
+      </td>
+      <td>
+        <figure>
           <img src="https://wakatime.com/share/@PierreVieira/604c639f-e5a9-4d93-98b2-18925071776f.svg" alt="Last year" width="400">
         </figure>
       </td>
@@ -42,6 +48,11 @@ Twenty two years old programmer in love with android development.
       <td>
         <figure>
           <img src="https://wakatime.com/share/@PierreVieira/b39dcb99-c64f-4f6c-a3e1-2b6f346a1a8c.svg" alt="Last 7 days" width="400">
+        </figure>
+      </td>
+      <td>
+        <figure>
+          <img src="https://wakatime.com/share/@PierreVieira/dabedd63-6942-49eb-8233-6780da9f679b.svg" alt="Last 30 days" width="400">
         </figure>
       </td>
       <td>
