@@ -61,5 +61,23 @@ Twenty two years old programmer in love with android development.
         </figure>
       </td>
     </tr>
+    </tr>
+        <tr>
+          <td>
+            <figure>
+              <img src="https://wakatime.com/share/@PierreVieira/e7a47200-4a2b-47d7-9557-bb30d8ce46ae.svg" alt="Last 7 days" width="400">
+            </figure>
+          </td>
+          <td>
+            <figure>
+              <img src="https://wakatime.com/share/@PierreVieira/06e449ec-0694-4ab7-8163-8f1773c73795.svg" alt="Last 30 days" width="400">
+            </figure>
+          </td>
+          <td>
+            <figure>
+              <img src="https://wakatime.com/share/@PierreVieira/7baba160-2f88-48c9-82ca-1f93d7c3c13b.svg" alt="Last year" width="400">
+            </figure>
+          </td>
+      </tr>
   </tbody>
 </table>
