@@ -12,7 +12,7 @@ Twenty three years old programmer in love with android development.
 
 ## Current works
 * 💳 Android Software Engineer at **[Mercado Pago Point](https://www.mercadopago.com.br/point)**;
-* 🧾 Android Software Engineer & Co-foudner at [Quare Software](https://www.linkedin.com/company/quare-software/?viewAsMember=true).
+* 🧾 Android Software Engineer & Co-foudner at **[Quare Software](https://www.linkedin.com/company/quare-software/?viewAsMember=true)**.
 
 ## Previous works
 * ⌚ Android Software Engineer at [ScalablePath](https://www.scalablepath.com/)
