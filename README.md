@@ -8,7 +8,7 @@
 
 </span>
 
-Twenty three years old programmer in love with android development.
+Twenty-four-year-old programmer in love with Android development.
 
 ## Current works
 * 🎮 Android Software Engineer at **[PTW](https://www.ptw.com/)**;
