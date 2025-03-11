@@ -11,7 +11,7 @@
 Twenty-four-year-old programmer in love with Android development.
 
 ## Current works
-* 🎮 Android Software Engineer at **[PTW](https://www.ptw.com/)**;
+* 🎮 Android Software Engineer at **[Side](https://www.side.inc/)**;
 * 🧾 Android Software Engineer & Co-foudner at **[Quare Software](https://www.linkedin.com/company/quare-software/?viewAsMember=true)**.
 
 ## Previous works
