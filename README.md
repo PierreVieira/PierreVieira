@@ -8,18 +8,19 @@
 
 </span>
 
-Twenty-four-year-old programmer in love with Android development.
+Twenty-five-year-old programmer in love with Android development.
 
 ## Current works
-* 🎮 Android Software Engineer at **[Side](https://www.side.inc/)**;
+* 🎠 Android Software Engineer at **[Very Good Ventures](https://www.verygood.ventures/)**;
 * 🧾 Android Software Engineer & Co-foudner at **[Quare Software](https://www.linkedin.com/company/quare-software/?viewAsMember=true)**.
 
 ## Previous works
+* 🎮 Android Software Engineer at [Side](https://www.side.inc/);
 * 💳 Android Software Engineer at [Mercado Pago Point](https://www.mercadopago.com.br/point);
 * ⌚ Android Software Engineer at [ScalablePath](https://www.scalablepath.com/)
 * 🍗 Android Software Engineer at [iFood](https://www.ifood.com.br/);
+* 🎸 Android Software Engineer at [Studio Sol](https://www.studiosol.com.br/);
 * 💲  CEO & Founder at [Brothers Coins](https://brotherscoins.com/);
-* 🎸 Android developer at [Studio Sol](https://www.studiosol.com.br/);
 * 📖 Programming teacher at [Profes](https://profes.com.br/inicio);
 * 🦜 Software developer and commercial manager at [Commit Jr](https://commitjr.com/);
 * 🤖 Robotics instructor with Arduino at [Enxurrada de Bits](http://www.enxurradadebits.cefetmg.br/);
