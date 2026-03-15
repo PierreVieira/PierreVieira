@@ -11,10 +11,11 @@
 Twenty-five-year-old programmer in love with Android development.
 
 ## Current works
-* 🎠 Android Software Engineer at **[Very Good Ventures](https://www.verygood.ventures/)**;
-* 🧾 Android Software Engineer & Co-foudner at **[Quare Software](https://www.linkedin.com/company/quare-software/?viewAsMember=true)**.
+* 🎰 Android Software Engineer at **[Super](https://super.xyz/)**;
+* 🧾 Android Software Engineer & Co-foudner at **[Quare Software](https://github.com/Quartel-Enterprise)**.
 
 ## Previous works
+* 🎠 Android Software Engineer at [Very Good Ventures](https://www.verygood.ventures/);
 * 🎮 Android Software Engineer at [Side](https://www.side.inc/);
 * 💳 Android Software Engineer at [Mercado Pago Point](https://www.mercadopago.com.br/point);
 * ⌚ Android Software Engineer at [ScalablePath](https://www.scalablepath.com/)
