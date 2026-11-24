@@ -10,23 +10,6 @@
 
 🌐 Learn more about me, my work and my apps at **[pierrevieira.com](https://pierrevieira.com)**.
 
-## Current works
-* 🎰 Android Software Engineer at **[Super](https://super.xyz/)**;
-* 🧾 Android Software Engineer & Co-foudner at **[Quare Software](https://github.com/Quartel-Enterprise)**.
-
-## Previous works
-* 🎠 Android Software Engineer at [Very Good Ventures](https://www.verygood.ventures/);
-* 🎮 Android Software Engineer at [Side](https://www.side.inc/);
-* 💳 Android Software Engineer at [Mercado Pago Point](https://www.mercadopago.com.br/point);
-* ⌚ Android Software Engineer at [ScalablePath](https://www.scalablepath.com/)
-* 🍗 Android Software Engineer at [iFood](https://www.ifood.com.br/);
-* 🎸 Android Software Engineer at [Studio Sol](https://www.studiosol.com.br/);
-* 💲  CEO & Founder at [Brothers Coins](https://brotherscoins.com/);
-* 📖 Programming teacher at [Profes](https://profes.com.br/inicio);
-* 🦜 Software developer and commercial manager at [Commit Jr](https://commitjr.com/);
-* 🤖 Robotics instructor with Arduino at [Enxurrada de Bits](http://www.enxurradadebits.cefetmg.br/);
-* 🧮 Discrete math monitor at [CEFET-MG](https://www.cefetmg.br/).
-
 ## Statistics (provided from wakatime)
 Click on each image below to see more details 👇
 <table>
