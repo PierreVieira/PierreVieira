@@ -8,7 +8,7 @@
 
 </span>
 
-Twenty-five-year-old programmer in love with Android development.
+🌐 Learn more about me, my work and my apps at **[pierrevieira.com](https://pierrevieira.com)**.
 
 ## Current works
 * 🎰 Android Software Engineer at **[Super](https://super.xyz/)**;
